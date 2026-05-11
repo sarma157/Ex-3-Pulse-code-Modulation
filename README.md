@@ -31,7 +31,7 @@ pcm = ((q - q.min()) / step).astype(int)
 # Plot
 plt.figure(figsize=(10, 9))
 plt.suptitle(
-    "NAME : SRI JANI.G\nREG NO : 212224060259",
+    "NAME : SARMASARAN.M\nREG NO : 212224060239",
     fontsize=12,
     fontweight='bold'
 )
@@ -95,7 +95,7 @@ rec_filt = filtfilt(b, a, rec)
 # Plot
 plt.figure(figsize=(10, 8))
 plt.suptitle(
-    "NAME : SRI JANI.G\nREG NO : 212224060259",
+    "NAME : SARMASARAN.M\nREG NO : 212224060239",
     fontsize=12,
     fontweight='bold'
 )
