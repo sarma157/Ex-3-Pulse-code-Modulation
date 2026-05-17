@@ -123,6 +123,11 @@ plt.show()
 <img width="816" height="737" alt="image" src="https://github.com/user-attachments/assets/63eabde2-67d0-4a0b-829f-bf2287980d40" />
 
 #### DELTA MODULATION:
+
+
+
+
+
 <img width="826" height="658" alt="image" src="https://github.com/user-attachments/assets/3968c2c4-f1c2-4562-a5a6-ae5dca4ff5c3" />
 
 ## RESULT:
