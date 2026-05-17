@@ -124,11 +124,13 @@ plt.show()
 
 #### DELTA MODULATION:
 
-
-
-
-
 <img width="826" height="658" alt="image" src="https://github.com/user-attachments/assets/3968c2c4-f1c2-4562-a5a6-ae5dca4ff5c3" />
+
+
+
+
+
+
 
 ## RESULT:
 The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
